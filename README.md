@@ -1,8 +1,8 @@
 # 👋 Hi, I’m Belen!
 ## I love learning new things!
-- 👀 I’m interested in web development,science. 
+- 👀 I’m interested in web development, science. 
 - 🌱 I’m currently learning **Fullstack** (JavaScript, React Js, Programación Backend).
-- 👨‍💻 I have a lot of experience in sales, customer service and legal documents.
+- 👨‍💻 I have a lot of experience in Sales, Customer service, Financial and Legal Advice.
 - 💞️ I’m looking to collaborate on landing pages,Web development.
 
 - 📫 How to reach me:
