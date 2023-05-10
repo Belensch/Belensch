@@ -1,7 +1,10 @@
-- 👋 Hi, I’m @Belensch
-- 👀 I’m interested in web development,science.
-- 🌱 I’m currently learning Fullstack (JavaScript, React Js, Programación Backend. I have knowledge in Sass, GRIDS (Flexbox), Bootstrap. 
+# 👋 Hi, I’m Belen!
+##
+- 👀 I’m interested in web development,science. I love learning new things!
+- 🌱 I’m currently learning **Fullstack** (JavaScript, React Js, Programación Backend).
+- 👨‍💻 I have a lot of experience in sales, customer service and legal documents.
 - 💞️ I’m looking to collaborate on landing pages,Web development.
+- 
 - 📫 How to reach me:
 -  belensch@hotmail.com.ar   //  -  https://www.linkedin.com/in/belen-schmid-diaz/
 
