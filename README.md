@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on landing pages,Web development.
 
 - 📫 How to reach me:
--  belensch@hotmail.com.ar   //  -  https://www.linkedin.com/in/belen-schmid-diaz/
+-  hmbelensch@gmail.com   //  -  https://www.linkedin.com/in/belen-schmid-diaz/
 
 <!---
 Belensch/Belensch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
